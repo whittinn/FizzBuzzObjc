@@ -62,9 +62,209 @@
             filePath = "FizzBuzzObjcTests/FizzBuzzObjcTests.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
             landmarkName = "-testForDivideBy3"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54AE917D-9218-4EC3-B525-7185A523DD41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "-testCheckNumber"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DB366E6-8328-4156-BAB1-DE54582A4210"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "-testCheckNumber"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DB366E6-8328-4156-BAB1-DE54582A4210 - 5fc3c28004e956d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FizzBuzzObjcTests testCheckNumber]"
+                  moduleName = "FizzBuzzObjcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanielwhittington/Desktop/Apolis%20Projects/FizzBuzzObjc/FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "0DB366E6-8328-4156-BAB1-DE54582A4210 - 5fc3c28004e956d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FizzBuzzObjcTests testCheckNumber]"
+                  moduleName = "FizzBuzzObjcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanielwhittington/Desktop/Apolis%20Projects/FizzBuzzObjc/FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "0DB366E6-8328-4156-BAB1-DE54582A4210 - 5fc3c28004e956d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FizzBuzzObjcTests testCheckNumber]"
+                  moduleName = "FizzBuzzObjcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanielwhittington/Desktop/Apolis%20Projects/FizzBuzzObjc/FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "693">
+               </Location>
+               <Location
+                  uuid = "0DB366E6-8328-4156-BAB1-DE54582A4210 - 5fc3c28004e956d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FizzBuzzObjcTests testCheckNumber]"
+                  moduleName = "FizzBuzzObjcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanielwhittington/Desktop/Apolis%20Projects/FizzBuzzObjc/FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "765">
+               </Location>
+               <Location
+                  uuid = "0DB366E6-8328-4156-BAB1-DE54582A4210 - 5fc3c28004e956d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FizzBuzzObjcTests testCheckNumber]"
+                  moduleName = "FizzBuzzObjcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanielwhittington/Desktop/Apolis%20Projects/FizzBuzzObjc/FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "860">
+               </Location>
+               <Location
+                  uuid = "0DB366E6-8328-4156-BAB1-DE54582A4210 - 5fc3c28004e95731"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FizzBuzzObjcTests testCheckNumber]"
+                  moduleName = "FizzBuzzObjcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanielwhittington/Desktop/Apolis%20Projects/FizzBuzzObjc/FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "0DB366E6-8328-4156-BAB1-DE54582A4210 - 5fc3c28004e95731"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FizzBuzzObjcTests testCheckNumber]"
+                  moduleName = "FizzBuzzObjcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanielwhittington/Desktop/Apolis%20Projects/FizzBuzzObjc/FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "0DB366E6-8328-4156-BAB1-DE54582A4210 - 5fc3c28004e95731"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FizzBuzzObjcTests testCheckNumber]"
+                  moduleName = "FizzBuzzObjcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanielwhittington/Desktop/Apolis%20Projects/FizzBuzzObjc/FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "0DB366E6-8328-4156-BAB1-DE54582A4210 - 5fc3c28004e95731"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FizzBuzzObjcTests testCheckNumber]"
+                  moduleName = "FizzBuzzObjcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanielwhittington/Desktop/Apolis%20Projects/FizzBuzzObjc/FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "829">
+               </Location>
+               <Location
+                  uuid = "0DB366E6-8328-4156-BAB1-DE54582A4210 - 5fc3c28004e95731"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FizzBuzzObjcTests testCheckNumber]"
+                  moduleName = "FizzBuzzObjcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanielwhittington/Desktop/Apolis%20Projects/FizzBuzzObjc/FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "924">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EAF9930-C639-4AAF-8F16-2651C764DE7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FizzBuzzObjcTests/FizzBuzzObjcTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "-testCheckNumber"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

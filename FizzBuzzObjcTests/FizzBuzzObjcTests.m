@@ -31,7 +31,10 @@ bool value = false;
 - (void)testCheckNumber{
     
     NSString *value2 = [vc checkNumber: 5];
-//    XCTAssertIdentical(value2, @"Buzz");
+    
+   
+    XCTAssertEqualObjects(value2, @"Buzz");
+  
     
 }
 

@@ -37,12 +37,17 @@
     
     
     if ([self IfNotDividedBy5or3:number]){
+        
+        NSLog(@"FizzBuzz");
         return @"FizzBuzz";
     }else if ([self ifNotDivideBy5:number]){
+        NSLog(@"Buzz");
         return @"Buzz";
     }else if ([self ifNotDivideBy3:number]){
+        NSLog(@"Fizz");
         return  @"Fizz";
     }else {
+        NSLog(@"%d",number);
         return [NSString stringWithFormat: @"%d", number];
     }
 }
